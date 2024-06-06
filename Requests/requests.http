@@ -1,0 +1,11 @@
+GET https://localhost:5024/products
+Accept: application/json
+
+POST htts://localhost:5024/products
+Accept: application/json
+
+{
+    {
+        
+    }
+}
